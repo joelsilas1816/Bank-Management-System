@@ -3,7 +3,7 @@
 # Object Oriented Programming (OOP) and Fundamentals of Data Structures (FDS) Mini Project Documentation
 
 
-### I have created a mini project titled as Bank Management System in Object Oriented Programming (OOP) and Fundamentals of Data Structures (FDS) using almost all the concepts in OOP. I have also included many concepts of Data Structures and Algorithms. <br/> It consists of about 2064 lines of code and many other lines as comments I really learnt a lot from this self-motivated hands on practical experience which is similar to software development.
+### The Bank Management System is a project in Object Oriented Programming (OOP) and Fundamentals of Data Structures (FDS) implemented using almost all the concepts in OOP. I have also included many concepts of Data Structures and Algorithms. <br/> It consists of about 2064 lines of code and many other lines as comments I really learnt a lot from this self-motivated hands on practical experience which is similar to software development.
 
 ## 📌FEATURES :
 1.	creating the bank database
